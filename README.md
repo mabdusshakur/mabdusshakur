@@ -1,16 +1,21 @@
-### Hi there 👋
+**M Abdus Shakur**
 
-<!--
-**mabdusshakur/mabdusshakur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* 17 years old
+* Life long learner
+* Passionate about technology and innovation
+* Interested in web, apps & Game Development
+* Little bit lazy
 
-Here are some ideas to get you started:
+**Skills**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Programming languages: JavaScript, C, C++, C#, PHP
+* Web development frameworks: Laravel, Express, Vue
+* Game Development : Unity3D
+* Little Bit Reverse engineering
+
+**Contact**
+
+* Email: mabdusshakur12@gmail.com
+* GitHub:  <a href="https://twitter.com/M_Abdus_Shakur" target="blank">twitter.com/M_Abdus_Shakur</a>
+* LinkedIn: <a href="https://www.linkedin.com/in/mabdusshakur" target="blank">linkedin.com/in/mabdusshakur</a>
+
