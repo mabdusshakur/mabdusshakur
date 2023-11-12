@@ -14,25 +14,25 @@
 
 **Key Skills:**
 
-• Back-End Development: PHP, Laravel, SQL, Node.js
-• Game Development: Unity, Unreal Engine (C#, C++)
-• AI/ML: TensorFlow, PyTorch, OpenCV
-• Android Development: Java, Kotlin
-• Data Structures and Algorithms (DSA)
-• Competitive Programming: Problem-solving, Algorithmic Thinking
-• Cybersecurity Fundamentals
-• Reverse Engineering
-• New Tech Exploration
-• Multilingual: English, Hindi, Nepali, Bengali, Japanese, Learning More...  
-• Science Fair Projects: Face Detection Class Attendance Management.
+* Back-End Development: PHP, Laravel, SQL, Node.js
+* Game Development: Unity, Unreal Engine (C#, C++)
+* AI/ML: TensorFlow, PyTorch, OpenCV
+* Android Development: Java, Kotlin
+* Data Structures and Algorithms (DSA)
+* Competitive Programming: Problem-solving, Algorithmic Thinking
+* Cybersecurity Fundamentals
+* Reverse Engineering
+* New Tech Exploration
+* Multilingual: English, Hindi, Nepali, Bengali, Japanese, Learning More...  
+* Science Fair Projects: Face Detection Class Attendance Management.
 
 **Experience:**
 
-• Freelance Web and Desktop Developer: 2017 - 2018
-• Discord Bot Developer: 2020
-• Android Development: 2021 - Present
-• AI/ML Enthusiast: 2023 - Present
-• Competitive Programming: 2023 - Present
+* Freelance Web and Desktop Developer: 2017 - 2018
+* Discord Bot Developer: 2020
+* Android Development: 2021 - Present
+* AI/ML Enthusiast: 2023 - Present
+* Competitive Programming: 2023 - Present
 
 
 **Contact**
