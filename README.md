@@ -22,9 +22,9 @@
 * Competitive Programming: Problem-solving, Algorithmic Thinking
 * Cybersecurity Fundamentals
 * Reverse Engineering
-* New Tech Exploration
 * Multilingual: English, Hindi, Nepali, Bengali, Japanese, Learning More...  
 * Science Fair Projects: Face Detection Class Attendance Management.
+* New Tech Exploration
 
 **Experience:**
 
