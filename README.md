@@ -22,7 +22,7 @@
 * Competitive Programming: Problem-solving, Algorithmic Thinking
 * Cybersecurity Fundamentals
 * Reverse Engineering
-* Multilingual: English, Hindi, Nepali, Bengali, Japanese, Learning More...  
+* Multilingual: English, Hindi, Nepali, Bengali, Japanese, Learning More...
 * Science Fair Projects: Face Detection Class Attendance Management.
 * New Tech Exploration
 
