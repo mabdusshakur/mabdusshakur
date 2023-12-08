@@ -4,7 +4,7 @@
 
 * Throughout my high school years (2017-2022), My insatiable curiosity propelled me towards game development with Unity and Unreal Engine,(C#,C++.), backend development with Laravel, SQL, and Node.js for Discord bot dev. And I have done freelance works, honing my skills in C++, C#, desktop applications, web apps, and reverse engineering. 
 
-* In 2023, I took a year-long college hiatus to immerse myself in my passions, exploring AI/ML, Android development with Kotlin, DSA, and even dabbled in competitive programming. My linguistic curiosity also flourished, as I began learning various foreign languages. I utilized this dropout year to the fullest, expanding my skillset and nurturing my love for technology & Mangaka.
+* In 2023, I took a year-long college hiatus to immerse myself in my passions, exploring AI/ML, Android development with Kotlin, DSA, and even dabbled in competitive programming. My linguistic curiosity also flourished, as I began learning various foreign languages. I utilized this dropout year to the fullest, expanding my skillset and nurturing my love for technology.
 
 * Beyond my technical skills, I’m known for my helpful nature and commitment to truth. I believe in thinking about the betterment of others and standing up for what’s right, even if it means walking alone. I’m always ready to lend a hand and share my knowledge with others.
 
@@ -25,11 +25,12 @@
 
 **Experience:**
 
-* Freelance Web and Desktop Developer: 2017 - 2018
-* Discord Bot Developer: 2020
-* Android Development: 2021 - Present
-* AI/ML Enthusiast: 2023 - Present
-* Competitive Programming: 2023 - Present
+• Freelance Web and Desktop App Developer: 2017 - 2018
+• Discord Bot Developer: 2020
+• Competitive Programming: 2023
+• Android Development: 2021 - Present
+• Back-End Development: 2022 - Present
+• AI/ML : 2023 - Present
 
 
 **Contact:**
