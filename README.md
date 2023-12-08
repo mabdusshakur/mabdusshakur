@@ -8,8 +8,6 @@
 
 * Beyond my technical skills, I’m known for my helpful nature and commitment to truth. I believe in thinking about the betterment of others and standing up for what’s right, even if it means walking alone. I’m always ready to lend a hand and share my knowledge with others.
 
-* Despite the challenges I’ve faced, such as my innovative projects being declined at local science fairs due to a lack of understanding of ict teachers, I remain undeterred. These experiences have only fueled my passion for technology and innovation.
-
 * Currently, I’m particularly interested in backend development and AI/ML. I’m excited to continue learning & growing. Feel free to connect with me for collaboration on projects, knowledge sharing, or a friendly chat about the latest tech trends!
 
 **Key Skills:**
@@ -23,7 +21,6 @@
 * Cybersecurity Fundamentals
 * Reverse Engineering
 * Multilingual: English, Hindi, Nepali, Bengali, Japanese, Learning More...
-* Science Fair Projects: Face Detection Class Attendance Management.
 * New Tech Exploration
 
 **Experience:**
