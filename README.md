@@ -4,7 +4,7 @@
 
 * Throughout my high school years (2017-2022), My insatiable curiosity propelled me towards game development with Unity and Unreal Engine,(C#,C++.), backend development with Laravel, SQL, and Node.js for Discord bot dev. And I have done freelance works, honing my skills in C++, C#, desktop applications, web apps, and reverse engineering. 
 
-* In 2023, I took a year-long college hiatus to immerse myself in my passions, exploring AI/ML, Android development with Kotlin, DSA, and even dabbled in competitive programming. My linguistic curiosity also flourished, as I began learning various foreign languages. I utilized this dropout year to the fullest, expanding my skillset and nurturing my love for technology.
+* In 2023, I took a year-long college hiatus to immerse myself in my passions, exploring AI/ML, Android development with Kotlin, DSA, and even dabbled in competitive programming. My linguistic curiosity also flourished, as I began learning various foreign languages. I utilized this dropout year to the fullest, expanding my skillset and nurturing my love for technology and embarking on a journey of cultural discovery. My wanderlust propelled me across continents, immersing myself in diverse communities and exploring the tapestry of human experiences. This enriching year not only honed my technical skills but also broadened my perspective, fostering a deeper appreciation for the world's vibrant tapestry of cultures and peoples.
 
 * Beyond my technical skills, I’m known for my helpful nature and commitment to truth. I believe in thinking about the betterment of others and standing up for what’s right, even if it means walking alone. I’m always ready to lend a hand and share my knowledge with others.
 
