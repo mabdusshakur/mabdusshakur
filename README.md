@@ -25,7 +25,7 @@
 
 **Experience:**
 
-* Freelance Web and Desktop App Developer: 2017 - 2018
+* Freelance Web and Desktop App Developer: 2017
 * Discord Bot Developer: 2020
 * Competitive Programming: 2023
 * Android Development: 2021 - Present
