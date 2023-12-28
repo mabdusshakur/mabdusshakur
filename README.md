@@ -31,7 +31,7 @@
 * Back-End Development: 2022 - Present
 * AI/ML : 2023 - Present
 
-**Right now, I'm only working on simple projects and Looking Into Applied AI Only, because I'm frustrated from something, that can't be explained in just a few words. Really interested to know the reason ? Contact me, on Facebook or LinkedIn, Then 😓.**
+* Right now, I'm only working on simple projects and Looking Into Applied AI Only, because I'm frustrated from something, that can't be explained in just a few words. Really interested to know the reason ? Contact me, on Facebook or LinkedIn, Then 😓.
 
 **Contact:**
 
