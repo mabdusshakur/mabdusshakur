@@ -24,9 +24,9 @@
 
 **Experience:**
 * LAN-Survival Game UE: 2017
-* Freelance Web and Desktop App Developer: 2017 - 2018
+* Freelance Web and Desktop App Developer: 2017–2018
 * Discord Bot Developer: 2020
-* Android Development: 2021 - 2022
+* Android Development: 2021–2022
 * Competitive Programming: 2023
 * Back-End Development: 2022 - Present
 * AI/ML : 2023 - Present
