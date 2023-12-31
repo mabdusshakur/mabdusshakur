@@ -11,7 +11,7 @@
 * Currently, I’m particularly interested in backend development and AI/ML. I’m excited to continue learning & growing. Feel free to connect with me for collaboration on projects, knowledge sharing, or a friendly chat about the latest tech trends!
 
 **Key Skills:**
-* Back-End Development: PHP | Laravel, SQL, Node.js | Express
+* Back-End Development: PHP | Laravel, SQL, Node.js | Express, NoSQL
 * Game Development: Unity, Unreal Engine (C#, C++)
 * AI/ML: TensorFlow, PyTorch, OpenCV
 * Android Development: Java, Kotlin
