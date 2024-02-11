@@ -13,7 +13,7 @@
 **Key Skills:**
 * Back-End Development: PHP | Laravel, SQL, Node.js | Express, NoSQL
 * Game Development: Unity, Unreal Engine (C#, C++)
-* AI/ML: TensorFlow, PyTorch, OpenCV
+* ML: TensorFlow, PyTorch, OpenCV
 * Android Development: Java, Kotlin
 * Data Structures and Algorithms (DSA)
 * Competitive Programming: Problem-solving, Algorithmic Thinking
@@ -29,7 +29,7 @@
 * Android Development: 2021–2022
 * Competitive Programming: 2023
 * Back-End Development: 2022 - Present
-* AI/ML : 2023 - Present
+* ML : 2023 - Present
 
 ** Right now, I'm working on simple projects and Looking Into Applied AI Only, because I'm frustrated from something, that can't be explained in just a few words. Really interested to know the reason ? Contact me, on Facebook or LinkedIn, Then 🙂.
 
