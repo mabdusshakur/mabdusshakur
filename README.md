@@ -8,7 +8,7 @@
 
 * Beyond my technical skills, I’m known for my helpful nature and commitment to truth. I believe in thinking about the betterment of others and standing up for what’s right, even if it means walking alone. I’m always ready to lend a hand and share my knowledge with others.
 
-* Currently, I’m particularly interested in backend development and AI/ML. I’m excited to continue learning & growing. Feel free to connect with me for collaboration on projects, knowledge sharing, or a friendly chat about the latest tech trends!
+* Currently, I’m particularly interested in backend development and ML. I’m excited to continue learning & growing. Feel free to connect with me for collaboration on projects, knowledge sharing, or a friendly chat about the latest tech trends!
 
 **Key Skills:**
 * Back-End Development: PHP | Laravel, SQL, Node.js | Express, NoSQL
