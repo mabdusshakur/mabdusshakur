@@ -12,15 +12,11 @@
 
 **Key Skills:**
 * Back-End Development: PHP | Laravel, SQL, Node.js | Express, NoSQL
-* Game Development: Unity, Unreal Engine (C#, C++)
-* ML: TensorFlow, PyTorch, OpenCV
-* Android Development: Java, Kotlin
 * Data Structures and Algorithms (DSA)
 * Competitive Programming: Problem-solving, Algorithmic Thinking
 * Cybersecurity Fundamentals
 * Reverse Engineering
-* New Tech Exploration
-* Multilingual: English, Hindi, Nepali, Bengali, Japanese, Learning More...  
+* Multilingual: English, Hindi, Bengali, Learning More...  
 
 **Experience:**
 * LAN-Survival Game UE: 2017
