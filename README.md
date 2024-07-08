@@ -34,4 +34,4 @@
 * Email    : mabdusshakur12@gmail.com
 * Twitter  : <a href="https://twitter.com/M_Abdus_Shakur" target="_blank">twitter.com/M_Abdus_Shakur</a>
 * LinkedIn : <a href="https://www.linkedin.com/in/mabdusshakur" target="_blank">linkedin.com/in/mabdusshakur</a>
-* Facebook : <a href="https://www.facebook.com/mabdusshakurr" target="_blank">facebook.com/mabdusshakur009</a>
+* Facebook : <a href="https://www.facebook.com/mabdusshakurr" target="_blank">facebook.com/mabdusshakurr</a>
