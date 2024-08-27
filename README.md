@@ -12,9 +12,6 @@
 
 **Key Skills:**
 * Back-End Development: PHP | Laravel, SQL, Node.js | Express, NoSQL
-* Data Structures and Algorithms (DSA)
-* Competitive Programming: Problem-solving, Algorithmic Thinking
-* Cybersecurity Fundamentals
 * Reverse Engineering
 * Multilingual: English, Hindi, Bengali, Learning More...  
 
@@ -23,7 +20,7 @@
 * Freelance Web and Desktop App Developer: 2017–2018
 * Discord Bot Developer: 2020
 * Android Development: 2021–2022
-* Competitive Programming: 2023
+* Competitive Programming: 2023 ( Wasn't good though )
 * Back-End Development: 2022 - Present
 * ML : 2023 - Present
 
