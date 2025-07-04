@@ -22,7 +22,7 @@
 * Android Development: 2021–2022
 * Competitive Programming: 2023 ( Wasn't good though )
 * Back-End Development: 2022 - Present
-* ML : 2023 - Present ( Paused for a short ) - stopped wasted the tile just :)) :)
+* ML : 2023 - Present ( Paused for a short ) - stopped wasted the time just :)) :)
 
 ** Right now, I'm working on simple projects and Looking Into Applied AI Only, because I'm frustrated from something, that can't be explained in just a few words. Really interested to know the reason ? Contact me, on Facebook or LinkedIn, Then 🙂.
 
